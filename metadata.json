@@ -1,0 +1,6 @@
+{
+  "name": "All Kind of Fiberglass and Steel Works",
+  "description": "Custom fiberglass roofing, industrial steel fabrication, sheds, domes, security cabins, and metalwork workshop located on High Court Road, Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
